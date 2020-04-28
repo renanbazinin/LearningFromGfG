@@ -1,0 +1,6 @@
+C:\Users\renan\Documents\Just pratice stuff csharp\ArrayRoationGfG\ArrayRoationGfG\bin\Debug\ArrayRoationGfG.exe.config
+C:\Users\renan\Documents\Just pratice stuff csharp\ArrayRoationGfG\ArrayRoationGfG\bin\Debug\ArrayRoationGfG.exe
+C:\Users\renan\Documents\Just pratice stuff csharp\ArrayRoationGfG\ArrayRoationGfG\bin\Debug\ArrayRoationGfG.pdb
+C:\Users\renan\Documents\Just pratice stuff csharp\ArrayRoationGfG\ArrayRoationGfG\obj\Debug\ArrayRoationGfG.csprojResolveAssemblyReference.cache
+C:\Users\renan\Documents\Just pratice stuff csharp\ArrayRoationGfG\ArrayRoationGfG\obj\Debug\ArrayRoationGfG.exe
+C:\Users\renan\Documents\Just pratice stuff csharp\ArrayRoationGfG\ArrayRoationGfG\obj\Debug\ArrayRoationGfG.pdb
